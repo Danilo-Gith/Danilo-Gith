@@ -13,8 +13,8 @@ Olá Pessoal, eu sou Danilo! Seja Bem vindo ao Meu Repositório.
 
 <div>
   <a href="https://github.com/Danilo-Gith">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Gith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Gith&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Gith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Gith&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   
