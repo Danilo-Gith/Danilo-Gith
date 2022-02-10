@@ -1,7 +1,7 @@
 Olá Pessoal, eu sou Danilo! Seja Bem vindo ao Meu Repositório.
 
 
-#👨🏾‍🎓 - Estudante em Analise e Desenvolvimento de Sitemas
+#👨🏾‍🎓 - Formado em Analise e Desenvolvimento de Sitemas
 
 #👨🏾‍🎓 - Estudante em Pentest
 
