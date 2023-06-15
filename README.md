@@ -3,7 +3,7 @@ Olá Pessoal, eu sou Danilo! Seja Bem vindo ao Meu Repositório.
 
 #👨🏾‍🎓 - Formado em Analise e Desenvolvimento de Sitemas
 
-#👨🏾‍🎓 - Estudante em Pentest
+#👨🏾‍🎓 - Estudante de Pentesting
 
 #👨‍💻 - Curioso em Tecnologia
 
